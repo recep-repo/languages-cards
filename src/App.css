@@ -1,0 +1,34 @@
+
+.App {
+  text-align: center;
+}
+
+
+
+.react-logo{
+  width: 20rem;
+  margin: 1.5rem 0;
+
+}
+.main{
+  border: 3px solid snow;
+  border-radius: 2rem;
+  width: 400px;
+  margin: auto;
+  background-color:cadetblue;
+
+}
+
+.card-container{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  
+
+
+}
+
+h2{
+  margin: 1rem 0;
+}
+
