@@ -5,7 +5,7 @@
 }
 
 body{
-    background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
+    background-image: linear-gradient(to top, #7ae2dd 0%, #fed6e3 100%);
 }
 
 
@@ -50,7 +50,7 @@ img{
 }
 
 @keyframes example {
-    0% {background-color: green;}
+    0% {background-color: #fed6e3;}
     50% {background-color: yellow;}
-    100% {background-color: blueviolet;}
+    100% {background-color: #7ae2dd;}
   }
