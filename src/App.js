@@ -1,7 +1,7 @@
 import './App.css';
 import react from './assets/react.svg'
-import Data from './helper/Data'
 import Card from './components/Card'
+import Data from './helper/Data';
 
 
 function App() {

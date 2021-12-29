@@ -6,6 +6,8 @@
 
 body{
     background-image: linear-gradient(to top, #7ae2dd 0%, #fed6e3 100%);
+    height: 100vh;
+    
 }
 
 

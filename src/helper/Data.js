@@ -7,7 +7,7 @@ import php from "../assets/php.png";
 import javascript from "../assets/javascript.png";
 import html from "../assets/html.png";
 
-  const Data = [
+const Data = [
   {
     name: "javascript",
     img: javascript,
@@ -50,5 +50,5 @@ import html from "../assets/html.png";
   },
 ];
 
-export default Data;
 
+export default Data
